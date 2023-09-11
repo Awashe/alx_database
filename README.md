@@ -1,0 +1,1 @@
+* this is my read me file for SQL databases project.
